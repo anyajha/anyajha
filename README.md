@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/@rushalkaj" target="blank"><img src="https://img.shields.io/twitter/follow/@rushalkaj?logo=twitter&style=for-the-badge" alt="@rushalkaj" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript**
 
-- I have completed projects using swing and awt frameworks [Minimum Spanning tree](https://github.com/anyajha/MST/blob/main/DaaP1.java)
+- I have completed projects using swing and awt frameworks
 
 - 💬 Ask me about **swing, awt, java**
 
