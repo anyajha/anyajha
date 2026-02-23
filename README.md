@@ -33,7 +33,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <h3>Languages and Tools:</h3>
-<h4>Programming Languages</h4>
 <p>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
@@ -42,7 +41,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
 </a>
 </p>
-<h4>Frontend</h4>
 <p>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
@@ -57,13 +55,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
 </a>
 </p>
-<h4>Backend</h4>
 <p>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 </a>
 </p>
-<h4>Database</h4>
 <p>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="45"/>
@@ -72,7 +68,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
 </a>
 </p>
-<h4>Tools</h4>
 <p>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
