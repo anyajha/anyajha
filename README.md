@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Anya%20Jha&fontSize=40&fontColor=ffffff"/>
- 
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Anya+Jha;A+passionate+Software+Developer" />
@@ -11,7 +9,14 @@
 
 - 🌱 I am a MERN stack developer
 
-- Familiar with : Cloud, AWS, Terraform, Datadog, New Relic 
+- Familiar with : Cloud, AWS, Terraform, Datadog, New Relic
+- <p align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+ 
 
 - 💬 Ask me about **DevOps**
 
