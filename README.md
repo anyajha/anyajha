@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Anya%20Jha&fontSize=40&fontColor=ffffff"/>
+ 
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Anya+Jha;A+passionate+Software+Developer" />
 </p>
@@ -33,11 +36,6 @@
  
 
 <br>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anyajha&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anyajha&theme=tokyonight&hide_border=true" />
-</p>
  
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anyajha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=radical&hide_border=false&order=2" height="153" alt="languages graph"  />
