@@ -51,9 +51,6 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
 </a>
-</p>
-
-<p>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 </a>
@@ -63,22 +60,15 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
 </a>
-</p>
-
-<p>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
 </a>
+
 </p>
+<br> 
 
- 
- 
- 
-
-<br>
- 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyajha&layout=compact&theme=tokyonight&hide_border=true" />
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyajha&layout=compact&theme=tokyonight&hide_border=true" />
     <br>
     <br>
     <img src="https://streak-stats.demolab.com?user=anyajha&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=11&date_format=j%20M%5B%20Y%5D&order=3" height="222" alt="streak graph"  />
