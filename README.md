@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/@rushalkaj" target="blank"><img src="https://img.shields.io/twitter/follow/@rushalkaj?logo=twitter&style=for-the-badge" alt="@rushalkaj" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I am a MERN stack developer
 
-- I have completed projects using swing and awt frameworks
+- Familiar with : Cloud, AWS, Terraform, Datadog, New Relic 
 
-- 💬 Ask me about **swing, awt, java**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **anyamrendrajha@gmail.com**
 
