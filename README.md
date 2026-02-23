@@ -1,8 +1,33 @@
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Hi.gif" width="35px"/>
+<svg width="40px" viewBox="0 0 24 24" style="animation: wave 1.8s infinite;">
+<text y="20" font-size="20">👋</text>
+</svg>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Anya+Jha;A+passionate+Software+Developer" />
 </p>
+<style>
+
+@keyframes wave {
+
+  0% { transform: rotate(0deg); }
+
+  10% { transform: rotate(14deg); }
+
+  20% { transform: rotate(-8deg); }
+
+  30% { transform: rotate(14deg); }
+
+  40% { transform: rotate(-4deg); }
+
+  50% { transform: rotate(10deg); }
+
+  60% { transform: rotate(0deg); }
+
+  100% { transform: rotate(0deg); }
+
+}
+</style>
+Readme Typing SVG - Demo Site
+ 
  
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
