@@ -9,7 +9,7 @@
 
 - 🌱 I am a MERN stack developer
 
-- Familiar with : <h3 align="center">⚙️ DevOps & Cloud Stack</h3>
+- Familiar with : DevOps & Cloud Stack
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
