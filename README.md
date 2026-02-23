@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anya Jha</h1>
-<h3 align="center">A passionate software developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Anya+Jha;DevOps+Engineer+%7C+.NET+Developer;Building+Elite+Backend+Systems;Future+Product+Leader+%F0%9F%9A%80" />
+</p>
+ 
 
 <p align="left"> <a href="https://twitter.com/@rushalkaj" target="blank"><img src="https://img.shields.io/twitter/follow/@rushalkaj?logo=twitter&style=for-the-badge" alt="@rushalkaj" /></a> </p>
 
