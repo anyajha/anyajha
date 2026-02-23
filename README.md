@@ -1,7 +1,12 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Anya+Jha;A+passionate+Software+Developer" />
 </p>
-Readme Typing SVG - Demo Site
+
+ <p align="center">
+<img src="https://komarev.com/ghpvc/?username=anyajha&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/anyajha?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/anyajha?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+</p>
  
 
 <p align="left"> <a href="https://twitter.com/@rushalkaj" target="blank"><img src="https://img.shields.io/twitter/follow/@rushalkaj?logo=twitter&style=for-the-badge" alt="@rushalkaj" /></a> </p>
