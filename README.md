@@ -9,13 +9,20 @@
 
 - 🌱 I am a MERN stack developer
 
-- Familiar with : Cloud, AWS, Terraform, Datadog, New Relic
-- <p align="center">
+- Familiar with : <h3 align="center">⚙️ DevOps & Cloud Stack</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+ 
  
 
 - 💬 Ask me about **DevOps**
