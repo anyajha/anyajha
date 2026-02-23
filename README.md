@@ -33,7 +33,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <h3 align="center">Languages and Tools:</h3>
-<p>
+<p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
 </a>&nbsp;&nbsp;&nbsp;
