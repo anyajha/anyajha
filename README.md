@@ -1,8 +1,9 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Hi.gif" width="40px" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Hi.gif" width="35px"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Anya+Jha;A+passionate+Software+Developer" />
 </p>
+ 
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
  
