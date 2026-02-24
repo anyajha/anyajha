@@ -11,9 +11,9 @@
  
 <p align="left"> <a href="https://twitter.com/@rushalkaj" target="blank"><img src="https://img.shields.io/twitter/follow/@rushalkaj?logo=twitter&style=for-the-badge" alt="@rushalkaj" /></a> </p>
 
-- 🌱 I am a MERN stack developer
+- I am a MERN stack developer
 
-- Familiar with : DevOps & Cloud Stack
+- Familiar with the following DevOps & Cloud Stack:
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -29,9 +29,9 @@
  
  
 
-- 💬 Ask me about **DevOps**
+- Ask me about **Cloud Computing**
 
-- 📫 How to reach me **anyamrendrajha@gmail.com**
+- How to reach me **anyamrendrajha@gmail.com**
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
